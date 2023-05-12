@@ -19,6 +19,3 @@ Opa! Eu sou Damazio Dono deste Perfil!
 </div>
   
   ##
-  <div> 
-  ![Snake animation](https://github.com/WendersonDamazio/WendersonDamazio/blob/output/github-contribution-grid-snake.svg)
-</div>
