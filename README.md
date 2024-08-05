@@ -1,7 +1,5 @@
 Opa! Eu sou Damazio Dono deste Perfil!
 
-- 🔭 Desenvolvedor Front-end
-- 🌱 Estudando React
 <div align="start">
   <a href="https://github.com/WendersonDamazio">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WendersonDamazio&show_icons=true&theme=ommix&include_all_commits=true&count_private=true"/>
